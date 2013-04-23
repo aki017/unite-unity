@@ -1,0 +1,5 @@
+*unite-unity*	unite plugin for unity
+
+Author : aki017 <aki@aki017.info>
+
+vim:tw=78:ts=8:ft=help:norl:noet:ai
